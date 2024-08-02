@@ -1,2 +1,2 @@
-console.log("hola mundo")
+console.log("nuevo hola mundo")
 console.log("como esta el curso")
